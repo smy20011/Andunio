@@ -19,6 +19,8 @@
 (defn gen-action-proto
   "Generate proto"
   ;; TODO: Finish action proto)
+  ;; TODO: Happy new year!
+  )
 
 (defn gen-proto
   "Generate proto data (eg. data layout)"
